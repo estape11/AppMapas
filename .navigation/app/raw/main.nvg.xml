@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.android.estebandroid.appmapas.MainActivity"/>
+      <point      
+        x = "1696"      
+        y = "-244"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "pantallaRegistro"/>
+      <point      
+        x = "1016"      
+        y = "68"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.android.estebandroid.appmapas.MapaActivity"/>
+      <point      
+        x = "344"      
+        y = "-128"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "actividad2"/>
+      <point      
+        x = "1916"      
+        y = "224"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.android.estebandroid.appmapas.pantallaRegistro"/>
+      <point      
+        x = "840"      
+        y = "-44"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.android.estebandroid.appmapas.actividad2"/>
+      <point      
+        x = "1564"      
+        y = "36"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
